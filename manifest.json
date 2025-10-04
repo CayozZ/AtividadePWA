@@ -1,0 +1,21 @@
+{
+  "name": "Meu Pokémon Favorito",
+  "short_name": "PokéFavorito",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ef5350",
+  "description": "Descubra qual é o seu Pokémon favorito tirando uma foto!",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
